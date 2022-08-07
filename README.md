@@ -1,6 +1,1461 @@
-_, Protected_by_Icendgame, Discord = '-----'
+do
+	local ui = game.CoreGui:FindFirstChild("ABc")
+	if ui then
+		ui:Destroy()
+	end
+end
+
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local LocalPlayer = game:GetService("Players").LocalPlayer
+local Mouse = LocalPlayer:GetMouse()
+local tween = game:GetService("TweenService")
+local Red = {RainbowColorValue = 0, HueSelectionPosition = 0}
 
 
-,nil,nil;(function() _msec=(function(e,l,o)local K=l[" ​      "];local q=o[e[(668+-#{(function()return{','}end)();'}',","})]][e[" ​     ​     "]];local x=(-23+0x1b)/(-#[[33 cocks in my mouth]]+((-0x2c+((0xa8+-41)+-#[[zykem krul]]))-51))local i=((-#'mama mo'+(-127+(-#[[fix vg hub dekudimz]]+(37534/0x62))))/0x73)-(-116+0x75)local j=o[e[(0xd6+-91)]][e["        "]];local y=(-#"Shrimps was here"+((((1485432/0xb8)+-#'I FUCKING HATE FEMBOYS')/0x61)+-66))+(-#'Negro'+(0x68+-97))local B=o[e[((1322-0x2b1)+-#'you can pull my IP but you cant pull any bitches fucking loner')]][e["                   "]]local d=(-#'how to find my dad at the dollar store getting milk'+(0x76+-65))-((105+(-0x5f+62))-0x47)local b=(-#[[Reduce meme string slowmode when plsplspls]]+(0x47+(((6480/(0x1d3-287))-0x2f)+-#[[warboy hates you]])))local c=(-31+(39+-#{(function()return{','}end)();1;'}',",",{},'nil'}))local U=(-#{10;80;{};80;(function()return#{('llBhLk'):find("\66")}>0 and 1 or 0 end);{};'nil'}+9)local t=(7+-#{(function()return#{('PpoLLl'):find("\111")}>0 and 1 or 0 end);'}',(function()return{','}end)(),'}';","})local u=((((-#[[i shoved a whole bag of jellibeans up my ass]]+(0x15a+(0x33+-126)))+-102)+-82)+-#[[nate higger nuck figgers and nill kiggers]])local g=(-#{'nil',102;","}+5)local f=((-39+(-#{(function()return#{('lMBOOl'):find("\66")}>0 and 1 or 0 end),'nil';'nil',137,35;","}+112))+-64)local h=((((((172421+-0x2c)-86203)+-#'you can pull my IP but you cant pull any bitches fucking loner')/0x75)/32)+-#[[Cock and ball tortue]])local s=((-0x2f+(((-0x62+-29)+0x115)-0x54))+-#"get some bitches")local M=(((-75+(0x1db-(588-0x131)))+-#"suck my balls")+-0x65)local k=((-#{(function()return{','}end)(),(function()return#{('HBFMMM'):find("\70")}>0 and 1 or 0 end);'}';73,(function()return#{('HBFMMM'):find("\70")}>0 and 1 or 0 end)}+65)+-57)local O=(-#{11,",";'}',163,'nil'}+8)local P=(((-0x63+((-0x94-(22-0x31))+106))+0x81)+-#[[nicowashere]])local S=(((-#'made by kim jong un'+(0x324a/(-#{1,88,(function()return{','}end)()}+85)))-0x6c)+-#[[You are an absolute baboon]])local N=(((((-0x5876+11272)+-#[[when the he went where when he where where when the he when ther wher he then here went]])/157)+105)/8)local D=(0x47+((0x64-(-#{'}','nil',(function()return{','}end)();{},1,","}+111))+-#[[Help I cant think of a funny and original meme string pls help]]))local _=(0x3a-(0x2772/(0x1cb-(-#{(function()return#{('lBooLB'):find("\111")}>0 and 1 or 0 end),(function()return#{('lBooLB'):find("\111")}>0 and 1 or 0 end),",";188;'nil';(function()return#{('lBooLB'):find("\111")}>0 and 1 or 0 end);(function()return{','}end)()}+279))))local m=(((116-(0xea-(416-0xf9)))+-#[[0nly segc]])-0x24)local Y=e[(-0x53+1418)];local E=o[e[(-67+0xbe)]][e["           "]];local Z=o[(function(e)return type(e):sub(1,1)..'\101\116'end)('        ')..'\109\101'..('\116\97'or'        ')..e[(-0x6b+(698+-0x14))]];local I=o[e[(575+-#{'}';92,1;113})]][e["             "]];local v=(-#[[how to join the kkk]]+(3444/0xa4))-((0x2a+(-#[[anime is for fags]]+((-126+-0xaaa)/0xcc)))+-#'Deezbutts')local p=(108+(-#'dies of cringe'+(-71-((6480/0xd8)+-#'0nly segc'))))-(0x14c/166)local F=o[e[(0x221d/71)]][e["              ​ "]];local n=function(e,o)return e..o end local z=(121+-0x75)*(660/((0x621f-12579)/76))local H=o[e["​       ​​ "]];local r=((-0x5b+100)+-#'niggers')*((250+(-0x6a+47))+-0x3f)local L=((0x852-1093)+-#'Big black men')*(88+(((-0x1140b4/59)+-#'waste of sperm')/223))local A=(0x8d+(-#'testing this thingy lololollez'+((-#'ambatakum'+(-0x3215+-32))/218)))local C=((-0x246a/(197-0x76))+0x78)*(0xc/6)local w=o[e["         "]]or o[e[(1167-0x254)]][e["         "]];local a=(-#'I FUCKING HATE FEMBOYS'+(19460/(246-(0x4780/104))))local e=o[e["   ​ ​      "]];local I=(function(a)local r,l=3,0x10 local o={j={},v={}}local n=-d local e=l+i while true do o[a:sub(e,(function()e=r+e return e-i end)())]=(function()n=n+d return n end)()if n==(z-d)then n=""l=v break end end local n=#a while e<n+i do o.v[l]=a:sub(e,(function()e=r+e return e-i end)())l=l+d if l%x==v then l=p I(o.j,(F((o[o.v[p]]*z)+o[o.v[d]])))end end return B(o.j)end)("..:::MoonSec::..                ​                                                          ​                  ​   ​        ​           ​                                ​          ​                                                                                                       ​                                                  ​               ​         ​          ​                                                         ​                                      ​  ​   ​  ​                                                                     ​         ​                                              ​           ​                                               ​  ​                    ​                       ​                              ​      ​       ​                                               ​           ​                           ​                ​                       ​                                                                               ​  ​                ​             ​                ​          ​                    ​                                    ​                      ​                                ​​                                                                                ​           ​                     ​                   ​                          ​    ​     ​          ​          ​            ​      ​                       ​  ​                  ​                                        ​  ​                                                 ​                                                     ​               ​                                 ​           ​        ​                                          ​                ​                   ​               ​           ​          ​           ​​           ​           ​          ​                                      ​                      ​         ​                                                                                             ​                              ​               ​                          ​                   ​               ​                              ​        ​     ​                                                            ​   ​                                   ​                                                          ​​                                              ​                                                                                        ​                                                                ​          ​      ​                  ​           ​ ​                                                        ​     ​​                    ​   ​       ​                 ​           ​                                    ​   ​    ​ ​                                                                             ​                              ​ ​          ​       ​ ​      ​  ​ ​          ​                                ​         ​ ​                                                               ​         ​      ​   ​                                                         ​                                                    ​   ​       ​               ​    ​   ​      ​       ​       ​ ​                ​        ​                 ​        ​                           ​                                                                                                            ​                                           ​           ​                                                       ​                                                     ​ ​                   ​               ​                       ​              ​      ​                 ​                                                                                                                 ​                            ​                        ​             ​                     ​                                        ​                                     ​                                       ​                                        ​                                                             ​                   ​                                                                  ​                                       ​                                                                                       ​                                       ​                                      ​                                        ​                           ​                                      ​    ​                                   ​                        ​                ​        ​                                ​                                         ​                                      ​                                      ​ ​                                      ​                     ​                                          ​                                      ​          ​          ​                   ​  ​                    ​                                      ​                 ​                                         ​    ​                                        ​                ​                                             ​                                      ​                                 ​     ​                                                                                    ​                                               ​         ​                    ​                   ​​                                              ​                     ​                    ​          ​                           ​                                      ​                                          ​  ​                                                          ​​                   ​                   ​                                         ​                         ​         ​                                       ​                          ​             ​                        ​               ​                                      ​                                                                ​                                       ​                                                             ​             ​    ​                                                                                                       ​                   ​                  ​     ​           ​                     ​          ​                                ​                                         ​                                   ​  ​                                         ​                                      ​ ​                 ​            ​     ​ ​                       ​                                        ​                                          ​                    ​                 ​                  ​  ​     ​             ​                                            ​                   ​                  ​                                                                               ​                   ​   ​                                      ​      ​             ​      ​​           ​   ​                                                                ​ ​​            ​               ​                                                    ​                             ​                 ​​                   ​                                        ​                                         ​                          ​           ​                                       ​                                                                ​                                                         ​                     ​        ​                          ​       ​                                          ​                                      ​                                               ​                                  ​ ​                    ​                   ​                  ​            ​                   ​     ​       ​                         ​​                              ​                         ​    ​      ​                                               ​ ​                                          ​  ​           ​          ​​          ​                                                       ​                     ​            ​                  ​   ​       ​    ​                                ​                                        ​                    ​                   ​                                       ​                                      ​​                                     ​      ​            ​                                          ​                               ​         ​        ​              ​                                     ​                    ​​  ​     ​                          ​              ​​                    ​                                     ​                   ​                                        ​                         ​                                                    ​                                       ​​                                      ​ ​                                      ​                                      ​                   ​                      ​                     ​          ​                                                                    ​                                       ​  ​                                                                        ​                                          ​                    ​                                          ​                                           ​                            ​           ​                                         ​                                        ​                                        ​                                       ​​                  ​  ​                         ​  ​                                             ​​                             ​             ​                                                                                ​                                       ​                                       ​                     ​                                                       ​                            ​        ​                             ​                                         ​                                   ​    ​         ​                               ​                                  ​       ​                  ​  ​                                         ​                                                                  ​                        ​                                 ​                                         ​                                       ​          ​                                                                                                                                     ​                   ​                                                           ​                        ​                              ​                                                                       ​     ​              ​       ​                                     ​                                      ​                                ​                                       ​                                          ​​                       ​               ​                    ​                 ​                     ​                                         ​          ​            ​               ​                                      ​                                      ​  ​                                                             ​                    ​                                        ​                                   ​                          ​                                                 ​               ​              ​                     ​       ​          ​                                       ​                  ​                   ​​                   ​                   ​                       ​                       ​                                             ​                 ​ ​                                    ​                      ​       ​      ​  ​     ​​   ​                             ​       ​                    ​         ​                              ​       ​    ​       ​                                     ​                                                              ​                                           ​                                  ​                                                                                      ​​                                       ​                    ​                                        ​​                                       ​                                        ​                          ​          ​                                     ​                                      ​                       ​              ​           ");local B=(0x9b+(-#'how to join the kkk'+(-1484/0xe)))local l=70 local o=d;local e={}e={[(-0x2b+44)]=function()local n,e,i,d=j(I,o,o+y);o=o+C;l=(l+(B*C))%a;return(((d+l-(B)+r*(C*x))%r)*((x*L)^x))+(((i+l-(B*x)+r*(x^y))%a)*(r*a))+(((e+l-(B*y)+L)%a)*r)+((n+l-(B*C)+L)%a);end,[(26-0x18)]=function(e,e,e)local e=j(I,o,o);o=o+i;l=(l+(B))%a;return((e+l-(B)+L)%r);end,[(270/0x5a)]=function()local n,e=j(I,o,o+x);l=(l+(B*x))%a;o=o+x;return(((e+l-(B)+r*(x*C))%r)*a)+((n+l-(B*x)+a*(x^y))%r);end,[(-#[[papier der afghaner wurde von nice dem bombenleger gefickt]]+(-0x23+97))]=function(l,e,o)if o then local e=(l/x^(e-d))%x^((o-i)-(e-d)+i);return e-e%d;else local e=x^(e-i);return(l%(e+e)>=e)and d or p;end;end,[(0x31b/159)]=function()local o=e[(0x25-36)]();local l=e[(0x52+-81)]();local c=d;local n=(e[(-#'how to join the kkk'+(-93+0x74))](l,i,z+C)*(x^(z*x)))+o;local o=e[(133-0x81)](l,21,31);local e=((-d)^e[((-#[[I have stolen your father figure and all your milk muahahahahahaha]]+(6672/0x30))-69)](l,32));if(o==p)then if(n==v)then return e*p;else o=i;c=v;end;elseif(o==(r*(x^y))-i)then return(n==p)and(e*(i/v))or(e*(p/v));end;return q(e,o-((a*(C))-d))*(c+(n/(x^A)));end,[(0x576/233)]=function(n,c,c)local c;if(not n)then n=e[(0x4f/79)]();if(n==p)then return'';end;end;c=E(I,o,o+n-d);o=o+n;local e=''for o=i,#c do e=Y(e,F((j(E(c,o,o))+l)%a))l=(l+B)%r end return e;end}local function L(...)return{...},H('#',...)end local function I()local c={};local t={};local o={};local b={c,t,nil,o};local l={}local k=((125-0x4d)+-#"Crackzzzz")local o={[(-#"Crackzzzz"+(30/0x3))]=(function(o)return not(#o==e[((170+-0x70)-56)]())end),[((0x8d-132)+-#[[mama mo]])]=(function(o)return e[(335/(0x102-191))]()end),[(288/0x60)]=(function(o)return e[((0x80-((0xfe-153)+-#'Crackzzzz'))+-#[[Nicuse is good at sucking dick]])]()end),[(0x1f+(-0x123f/173))]=(function(o)local n=e[(-#'freerobuxphone'+(161-(0x174-231)))]()local e=''local o=1 for l=1,#n do o=(o+k)%a e=Y(e,F((j(n:sub(l,l))+o)%r))end return e end)};b[3]=e[(0x16e/183)]();local n=e[(211/0xd3)]()for n=1,n do local e=e[(-#'If no milk then return ffather'+(111+-0x4f))]();local d;local e=o[e%(0x7c-105)];l[n]=e and e({});end;for t=1,e[(103/0x67)]()do local o=e[(-#"if syn then syn dot request get beliveri12 coma nicuse ass end"+(203-0x8b))]();if(e[(-73+0x4d)](o,d,i)==v)then local a=e[((-0x3d+94)+-#'Only a to Z 0 to 9 is allowed')](o,x,y);local n=e[(-44+0x30)](o,C,x+C);local o={e[((0x48+-30)+-#[[psx real dupe steal all ur pets no joke]])](),e[(-108+0x6f)](),nil,nil};local r={[(((-#[[if syn request then print your mom then end and then kill yourself]]+(-41+0xdb))-88)+-#'fatee is gay 0nly on top')]=function()o[s]=e[(29-0x1a)]();o[D]=e[(0x68-101)]();end,[(40-(99-0x3c))]=function()o[h]=e[(0x27-38)]();end,[(-#'IP grabbed'+(124+-0x70))]=function()o[h]=e[(-123+0x7c)]()-(x^z)end,[(0xe1/75)]=function()o[f]=e[(145/0x91)]()-(x^z)o[_]=e[(49-0x2e)]();end};r[a]();if(e[(135-0x83)](n,i,d)==i)then o[u]=l[o[g]]end if(e[(0x32c/203)](n,x,x)==d)then o[O]=l[o[f]]end if(e[((0x633/69)+-#"how to join the kkk")](n,y,y)==i)then o[S]=l[o[m]]end c[t]=o;end end;for e=i,e[(-#[[0nly 1337]]+(0x942/237))]()do t[e-i]=I();end;return b;end;local function v(e,p,C)local I=e[x];local r=e[y];local e=e[d];return(function(...)local z={...};local j={};local a=e;local e=d e*=-1 local B=e;local l={};local o=d;local y=L local r=r;local L=H('#',...)-i;local F={};local I=I;for e=0,L do if(e>=r)then F[e-r]=z[e+i];else l[e]=z[e+d];end;end;local e=L-r+d local e;local r;while true do e=a[o];r=e[(-#'anime is for fags'+((335520/0x50)/0xe9))];n=(1195586)while(-0x79+153)>=r do n-= n n=(7426840)while(0x3a2/62)>=r do n-= n n=(2651571)while r<=(131-0x7c)do n-= n n=(4693077)while r<=((0xbe-156)+-#'Boosted moonsec for meme string')do n-= n n=(933586)while r<=(0x2e/46)do n-= n n=(498719)while(-124+0x7c)<r do n-= n local o=e[t]local a={l[o](w(l,o+1,B))};local n=0;for e=o,e[P]do n=n+d;l[e]=a[n];end break end while 227==(n)/(((0x234e-4579)-0x8d6))do local e={l,e};e[i][e[x][t]]=e[d][e[x][S]]+e[i][e[x][O]];break end;break;end while 809==(n)/((2357-0x4b3))do n=(793520)while(-#"Cock and ball tortue"+(0x5a-68))<r do n-= n local e=e[g]local n,o=y(l[e](l[e+i]))B=o+e-d local o=0;for e=e,B do o=o+d;l[e]=n[o];end;break end while(n)/((-51+0x3c1))==872 do local o=e[c]local n,e=y(l[o](w(l,o+1,e[k])))B=e+o-1 local e=0;for o=o,B do e=e+d;l[o]=n[e];end;break end;break;end break;end while(n)/((-0x42+2095))==2313 do n=(8047732)while((0x2e+-28)+-#[[Big black men]])>=r do n-= n n=(11490701)while((93+-0x2d)+-#'i shoved a whole bag of jellibeans up my ass')<r do n-= n local e=e[c]l[e](l[e+i])break end while(n)/((-#'yeet'+(6324-0xc63)))==3649 do local o=e[t]l[o](w(l,o+i,e[k]))break end;break;end while(n)/((4032-0x80c))==4081 do n=(12480166)while r>(-#'mf stfu'+(0x64-87))do n-= n l[e[t]]();break end while 3131==(n)/((-18+(-#'If no father return milk end'+(-47+0xfef))))do local e=e[t]l[e](w(l,e+i,B))break end;break;end break;end break;end while 2249==(n)/((-#"yeet"+(202293/0xab)))do n=(4562644)while(-#[[negus]]+(1568/0x62))>=r do n-= n n=(3585739)while r<=(-0x7c+133)do n-= n n=(4146232)while((3360/0xa0)+-#'Bush Did 9 11')<r do n-= n local e=e[c]l[e]=l[e](l[e+i])break end while(n)/((0x5a1+-23))==2924 do local o=e[b]l[o]=l[o](w(l,o+d,e[O]))break end;break;end while 3193==(n)/(((0x903-(-#[[negus]]+(-0x4d+1252)))+-#'impulse is hot'))do n=(1339632)while((24440/0xeb)-94)<r do n-= n local e=e[b]l[e]=l[e]()break end while 3101==(n)/((0xc570/117))do local e=e[c]l[e]=l[e](w(l,e+d,B))break end;break;end break;end while(n)/((-65+0xe07))==1294 do n=(1229760)while r<=(1937/0x95)do n-= n n=(3749710)while((0xf5-161)-72)<r do n-= n l[e[t]]=v(I[e[k]],nil,C);break end while(n)/(((-111+0xd60)+-#[[nico der hurensohn]]))==1138 do local r=I[e[k]];local d;local n={};d=Z({},{__index=function(o,e)local e=n[e];return e[1][e[2]];end,__newindex=function(l,e,o)local e=n[e]e[1][e[2]]=o;end;});for d=1,e[N]do o=o+i;local e=a[o];if e[(-#"you can pull my IP but you cant pull any bitches fucking loner"+(154-0x5b))]==30 then n[d-1]={l,e[k]};else n[d-1]={p,e[f]};end;j[#j+1]=n;end;l[e[c]]=v(r,d,C);break end;break;end while 504==(n)/((4906-0x9a2))do n=(1715220)while r>(3052/0xda)do n-= n if(l[e[g]]==l[e[D]])then o=o+i;else o=e[M];end;break end while 2199==(n)/((3900/0x5))do local n=e[h];local o=l[n]for e=n+1,e[D]do o=o..l[e];end;l[e[U]]=o;break end;break;end break;end break;end break;end while 3320==(n)/((-#"Me be like at 5am in the morning"+((-127+0x1c)+0x940)))do n=(1691829)while(-#[[nigglet]]+(101-0x47))>=r do n-= n n=(9963729)while(-#'10 black dicks in your mouth'+((11444+-0x17)/0xf3))>=r do n-= n n=(3796632)while(2397/0x8d)>=r do n-= n n=(5458870)while((-0x5f+122)+-#'nicowashere')<r do n-= n local n=e[b];local a=l[n+2];local d=l[n]+a;l[n]=d;if(a>0)then if(d<=l[n+1])then o=e[h];l[n+3]=d;end elseif(d>=l[n+1])then o=e[f];l[n+3]=d;end break end while(n)/((((-93+0xb57)+-32)+-#"niggers"))==1970 do if(l[e[t]]==e[N])then o=o+i;else o=e[O];end;break end;break;end while(n)/((-#"nico der hurensohn"+(0xc6b-1649)))==2511 do n=(12395200)while r>((0x735/41)+-#"you get no absolute bitches")do n-= n l[e[t]]=C[e[s]];break end while(n)/(((0xb6f4e-374740)/118))==3904 do local n=e[t];local d=l[n]local a=l[n+2];if(a>0)then if(d>l[n+1])then o=e[O];else l[n+3]=d;end elseif(d<l[n+1])then o=e[h];else l[n+3]=d;end break end;break;end break;end while 2817==(n)/(((0xe73+-124)+-#'pls free synapse x i am gamer girl uwu'))do n=(12069191)while r<=(-0x5b+112)do n-= n n=(5606640)while(400/0x14)<r do n-= n l[e[u]]=l[e[O]][e[P]];break end while(n)/(((0x1338-2510)+-#'waste of sperm'))==2340 do l[e[u]]=l[e[k]][l[e[N]]];break end;break;end while 3277==(n)/((0x1cdf-3708))do n=(437697)while((0x2b3b/217)+-#"Only a to Z 0 to 9 is allowed")<r do n-= n o=e[O];break end while 3393==(n)/(((330-(2506/0xe))+-#[[legend says i was here]]))do l[e[u]]=p[e[f]];break end;break;end break;end break;end while(n)/(((-0x70+721)+-#[[warboy hates you]]))==2853 do n=(7793680)while((17985/0x6d)-0x8a)>=r do n-= n n=(7674290)while(141+-0x74)>=r do n-= n n=(7734295)while(0xc18/(0x62c4/196))<r do n-= n l[e[g]]=(e[f]~=0);break end while 3589==(n)/(((4416-0x8c1)+-#'get good use moonsec'))do l[e[u]]=#l[e[O]];break end;break;end while 2390==(n)/((0x16bbf/29))do n=(99648)while r>(-#"If no milk then return ffather"+(6104/0x6d))do n-= n l[e[b]]=e[f];break end while 346==(n)/(((-0x40+400)+-#[[never gonna give you up never gonna let you down]]))do l[e[u]]=(e[h]~=0);o=o+i;break end;break;end break;end while(n)/((0x14ff-2742))==2960 do n=(1382120)while(3335/0x73)>=r do n-= n n=(1611774)while r>(-#'Fucking losed 027728272728271'+((0x1b7-258)-124))do n-= n l[e[b]]=l[e[h]]%e[N];break end while 906==(n)/((0x46cb9/163))do for e=e[U],e[h]do l[e]=nil;end;break end;break;end while(n)/((2643+-0x6b))==545 do n=(4488272)while r<=(-93+0x7b)do n-= n l[e[c]]=l[e[k]];break;end while(n)/((-#[[if true then return your dad]]+(-0x39+2057)))==2276 do n=(1851228)while r>((357-0xf2)-84)do n-= n if(l[e[u]]~=e[D])then o=o+i;else o=e[k];end;break end while 1124==(n)/((-80+0x6bf))do if(l[e[c]]~=l[e[P]])then o=o+i;else o=e[k];end;break end;break;end break;end break;end break;end break;end break;end while 2162==(n)/((0x462-569))do n=(1046799)while(((846300/0xd2)+-#'cilertedcool')/0x52)>=r do n-= n n=(68210)while r<=(7600/0xbe)do n-= n n=(1972475)while(0xb3-143)>=r do n-= n n=(599807)while(96+-0x3e)>=r do n-= n n=(180908)while(0x34+-19)<r do n-= n do return l[e[u]]end break end while 2548==(n)/((8662/0x7a))do l[e[u]]={};break end;break;end while(n)/((78819/0x8d))==1073 do n=(333200)while(0x1dce/218)<r do n-= n local n=e[b];local o=l[e[f]];l[n+1]=o;l[n]=o[e[N]];break end while(n)/(((-0x9-10)+0x243))==595 do do return end;break end;break;end break;end while 1285==(n)/((-#[[nigglet]]+(0x62c+-38)))do n=(10709352)while r<=(6878/0xb5)do n-= n n=(4805568)while r>(180-0x8f)do n-= n l[e[c]][l[e[s]]]=l[e[m]];break end while 3888==(n)/((2565-0x531))do C[e[f]]=l[e[c]];break end;break;end while(n)/((-#'Luraph v13 has been released changed absolutely fucking nothing'+(-26+0xffb)))==2676 do n=(939348)while(0x3d+-22)<r do n-= n l[e[t]][e[f]]=e[P];break end while(n)/((1277-((1539-0x33c)+-#'get some bitches')))==1614 do l[e[t]][e[h]]=l[e[P]];break end;break;end break;end break;end while 718==(n)/((0x543d/227))do n=(4676992)while(-47+0x5b)>=r do n-= n n=(714896)while(-74+0x74)>=r do n-= n n=(9843302)while(-24+0x41)<r do n-= n l[e[c]]=l[e[h]]-l[e[P]];break end while(n)/((7193-0xe28))==2758 do p[e[k]]=l[e[u]];break end;break;end while 3928==(n)/((0x4884/102))do n=(4170520)while r>(-115+0x9e)do n-= n if not l[e[b]]then o=o+i;else o=e[O];end;break end while 1640==(n)/((-0x26+2581))do if l[e[u]]then o=o+d;else o=e[h];end;break end;break;end break;end while 3904==(n)/((-111+0x51d))do n=(1616643)while(0x95-103)>=r do n-= n n=(10368769)while(-28+0x49)<r do n-= n local o=e[u]local n,e=y(l[o](w(l,o+1,e[f])))B=e+o-1 local e=0;for o=o,B do e=e+d;l[o]=n[e];end;break end while 2627==(n)/((0x85f19/139))do local a=e[b];local r=e[P];local n=a+2 local a={l[a](l[a+1],l[n])};for e=1,r do l[n+e]=a[e];end;local a=a[1]if a then l[n]=a o=e[k];else o=o+d;end;break end;break;end while 3447==(n)/((0xda03/119))do n=(463970)while r<=(110-0x3f)do n-= n local o=e[U]l[o](w(l,o+i,e[h]))break;end while 215==(n)/((0x43f6e/129))do n=(7057284)while(-0x1b+75)<r do n-= n local e={l,e};e[i][e[x][t]]=e[d][e[x][D]]+e[i][e[x][M]];break end while(n)/((4779-0x95e))==2964 do local e=e[b]l[e](l[e+i])break end;break;end break;end break;end break;end break;end while 897==(n)/((-#[[Big black men]]+(2382-0x4b2)))do n=(6622434)while r<=(0x2412/162)do n-= n n=(69052)while r<=(0x6c+-55)do n-= n n=(7245888)while r<=((-0x38+136)+-#"Only a to Z 0 to 9 is allowed")do n-= n n=(1177512)while(-#[[use luraph if want lost money]]+(0x9e+-79))<r do n-= n local o=e[t]local a={l[o](w(l,o+1,B))};local n=0;for e=o,e[P]do n=n+d;l[e]=a[n];end break end while(n)/(((-0x4a+(2610+-0x7b))+-#[[negus]]))==489 do local e=e[U]local n,o=y(l[e](l[e+i]))B=o+e-d local o=0;for e=e,B do o=o+d;l[e]=n[o];end;break end;break;end while(n)/((5824-0xb69))==2496 do n=(7139718)while(-0x4a+126)<r do n-= n local n;local r;local O,P;local x;local n;l[e[t]]=C[e[k]];o=o+d;e=a[o];l[e[u]]=C[e[f]];o=o+d;e=a[o];n=e[b];x=l[e[s]];l[n+1]=x;l[n]=x[e[_]];o=o+d;e=a[o];l[e[c]]=e[h];o=o+d;e=a[o];n=e[U]l[n]=l[n](w(l,n+d,e[s]))o=o+d;e=a[o];l[e[u]]=l[e[k]][e[_]];o=o+d;e=a[o];n=e[c];x=l[e[s]];l[n+1]=x;l[n]=x[e[m]];o=o+d;e=a[o];n=e[g]O,P=y(l[n](l[n+i]))B=P+n-d r=0;for e=n,B do r=r+d;l[e]=O[r];end;o=o+d;e=a[o];n=e[c]O={l[n](w(l,n+1,B))};r=0;for e=n,e[S]do r=r+d;l[e]=O[r];end o=o+d;e=a[o];o=e[M];break end while 3639==(n)/(((0xfbe-(2150+-0x56))+-#[[avan]]))do local y;local r;local B;local n;l[e[g]]=C[e[O]];o=o+d;e=a[o];l[e[U]]=l[e[s]][e[m]];o=o+d;e=a[o];n=e[c];B=l[e[f]];l[n+1]=B;l[n]=B[e[P]];o=o+d;e=a[o];l[e[t]]=l[e[f]];o=o+d;e=a[o];l[e[u]]=l[e[O]];o=o+d;e=a[o];n=e[c]l[n]=l[n](w(l,n+d,e[M]))o=o+d;e=a[o];n=e[c];B=l[e[s]];l[n+1]=B;l[n]=B[e[_]];o=o+d;e=a[o];n=e[c]l[n]=l[n](l[n+i])o=o+d;e=a[o];r={l,e};r[i][r[x][U]]=r[d][r[x][D]]+r[i][r[x][h]];o=o+d;e=a[o];l[e[c]]=l[e[s]]%e[N];o=o+d;e=a[o];n=e[t]l[n]=l[n](l[n+i])o=o+d;e=a[o];B=e[k];y=l[B]for e=B+1,e[_]do y=y..l[e];end;l[e[b]]=y;o=o+d;e=a[o];r={l,e};r[i][r[x][u]]=r[d][r[x][D]]+r[i][r[x][h]];o=o+d;e=a[o];l[e[g]]=l[e[h]]%e[S];break end;break;end break;end while 566==(n)/((0x4cba/161))do n=(7373939)while((-#[[jtoh is cringe ngl]]+(2905936/0xf2))/218)>=r do n-= n n=(5562368)while(0x3450/248)<r do n-= n local x;local P,U;local r;local n;l[e[g]][e[h]]=e[D];o=o+d;e=a[o];l[e[g]]=C[e[f]];o=o+d;e=a[o];n=e[g];r=l[e[h]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[c]]=e[h];o=o+d;e=a[o];n=e[b]l[n]=l[n](w(l,n+d,e[h]))o=o+d;e=a[o];l[e[c]]=l[e[k]][e[_]];o=o+d;e=a[o];l[e[u]]=l[e[O]][e[D]];o=o+d;e=a[o];n=e[t];r=l[e[s]];l[n+1]=r;l[n]=r[e[m]];o=o+d;e=a[o];l[e[c]]=C[e[M]];o=o+d;e=a[o];l[e[c]]=l[e[M]];o=o+d;e=a[o];n=e[t]P,U=y(l[n](l[n+i]))B=U+n-d x=0;for e=n,B do x=x+d;l[e]=P[x];end;o=o+d;e=a[o];n=e[u]l[n](w(l,n+i,B))break end while 3584==(n)/(((0x210cfa0/110)/0xcb))do local r;local n;l[e[c]]=C[e[k]];o=o+d;e=a[o];n=e[b];r=l[e[M]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[c]]=e[f];o=o+d;e=a[o];n=e[u]l[n]=l[n](w(l,n+d,e[h]))o=o+d;e=a[o];l[e[b]]=l[e[k]][e[m]];o=o+d;e=a[o];l[e[t]]=l[e[h]][e[S]];o=o+d;e=a[o];l[e[c]]=l[e[h]][e[P]];o=o+d;e=a[o];l[e[g]][e[s]]=l[e[_]];o=o+d;e=a[o];do return end;break end;break;end while 3011==(n)/((0x574b2/146))do n=(9220176)while(0x38/1)<r do n-= n local r;local n;l[e[t]]=C[e[f]];o=o+d;e=a[o];n=e[c];r=l[e[f]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[g]]=e[f];o=o+d;e=a[o];n=e[t]l[n]=l[n](w(l,n+d,e[k]))o=o+d;e=a[o];l[e[b]]=l[e[s]][e[N]];o=o+d;e=a[o];l[e[b]]=l[e[s]][e[N]];o=o+d;e=a[o];l[e[u]]=l[e[h]][e[_]];o=o+d;e=a[o];l[e[U]][e[h]]=l[e[S]];o=o+d;e=a[o];do return end;break end while 3049==(n)/(((6240-0xc45)+-#"brawl stars hard gay porn shelly nsked minecraft gay porn roblox rule34 hot"))do l[e[u]]=C[e[f]];o=o+d;e=a[o];l[e[b]]=l[e[f]][e[_]];o=o+d;e=a[o];l[e[c]]=l[e[O]][e[N]];o=o+d;e=a[o];l[e[c]]=l[e[s]][e[_]];o=o+d;e=a[o];l[e[b]]=l[e[k]][e[S]];o=o+d;e=a[o];l[e[t]]=l[e[k]][e[m]];o=o+d;e=a[o];l[e[t]][e[s]]=l[e[m]];break end;break;end break;end break;end while(n)/((6149-0xc23))==2177 do n=(9218055)while((-113+0xe1)+-#'how to find my dad at the dollar store getting milk')>=r do n-= n n=(3935377)while r<=(-#[[arab porn]]+(0x78+-52))do n-= n n=(358210)while(238-0xb4)<r do n-= n l[e[u]]=p[e[s]];o=o+d;e=a[o];l[e[U]]=#l[e[k]];o=o+d;e=a[o];p[e[O]]=l[e[b]];o=o+d;e=a[o];l[e[g]]=p[e[M]];o=o+d;e=a[o];l[e[b]]=#l[e[O]];o=o+d;e=a[o];p[e[h]]=l[e[c]];o=o+d;e=a[o];do return end;break end while(n)/((-#'if syn then haxor alert end'+(88208/0x95)))==634 do local i;local r;local n;l[e[g]]=e[k];o=o+d;e=a[o];l[e[t]]=e[f];o=o+d;e=a[o];l[e[g]]=#l[e[h]];o=o+d;e=a[o];l[e[U]]=e[f];o=o+d;e=a[o];n=e[b];r=l[n]i=l[n+2];if(i>0)then if(r>l[n+1])then o=e[s];else l[n+3]=r;end elseif(r<l[n+1])then o=e[f];else l[n+3]=r;end break end;break;end while(n)/((2641-0x536))==3011 do n=(12623072)while((0xaf+(-99-0x6))+-#'send nudes')<r do n-= n local r;local n;n=e[b]l[n]=l[n](w(l,n+d,e[O]))o=o+d;e=a[o];n=e[u];r=l[e[k]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[g]]=e[h];o=o+d;e=a[o];n=e[t]l[n]=l[n](w(l,n+d,e[M]))o=o+d;e=a[o];n=e[U];r=l[e[h]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[c]]=e[O];o=o+d;e=a[o];l[e[u]]=e[M];o=o+d;e=a[o];l[e[U]]=e[M];o=o+d;e=a[o];l[e[g]]=e[s];break end while(n)/((0x1a660/31))==3619 do local c;local x,f;local r;local n;l[e[t]][e[s]]=e[D];o=o+d;e=a[o];l[e[u]]=C[e[O]];o=o+d;e=a[o];n=e[t];r=l[e[M]];l[n+1]=r;l[n]=r[e[S]];o=o+d;e=a[o];l[e[u]]=e[k];o=o+d;e=a[o];n=e[u]l[n]=l[n](w(l,n+d,e[s]))o=o+d;e=a[o];l[e[u]]=l[e[M]][e[_]];o=o+d;e=a[o];l[e[U]]=l[e[h]][e[P]];o=o+d;e=a[o];n=e[b];r=l[e[M]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[b]]=C[e[s]];o=o+d;e=a[o];l[e[b]]=l[e[O]];o=o+d;e=a[o];n=e[t]x,f=y(l[n](l[n+i]))B=f+n-d c=0;for e=n,B do c=c+d;l[e]=x[c];end;o=o+d;e=a[o];n=e[t]l[n](w(l,n+i,B))break end;break;end break;end while(n)/((2437+(-#'i fucked your dad'+(-80+0x4b))))==3817 do n=(10336200)while((((0x36b-500)+-#'i love minors')-220)+-#[[how to use visual studio jk jk dont take it seriously what 6 hours per messange]])>=r do n-= n n=(4427565)while(-#'nicowashere'+(0x3f97/223))<r do n-= n local r;local n;n=e[b]l[n](w(l,n+i,e[O]))o=o+d;e=a[o];n=e[g];r=l[e[O]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];l[e[c]]=e[M];o=o+d;e=a[o];n=e[b]l[n]=l[n](w(l,n+d,e[s]))o=o+d;e=a[o];n=e[U];r=l[e[s]];l[n+1]=r;l[n]=r[e[m]];o=o+d;e=a[o];l[e[U]]=e[f];o=o+d;e=a[o];l[e[c]]=e[O];o=o+d;e=a[o];l[e[c]]=e[M];o=o+d;e=a[o];l[e[c]]=e[M];break end while(n)/((405654/0xf6))==2685 do local r;local n;n=e[U];r=l[e[k]];l[n+1]=r;l[n]=r[e[m]];o=o+d;e=a[o];l[e[t]]=e[h];o=o+d;e=a[o];n=e[t]l[n](w(l,n+i,e[h]))o=o+d;e=a[o];n=e[u];r=l[e[O]];l[n+1]=r;l[n]=r[e[m]];o=o+d;e=a[o];l[e[b]]=e[s];o=o+d;e=a[o];n=e[c]l[n](w(l,n+i,e[f]))o=o+d;e=a[o];n=e[U];r=l[e[f]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[t]]=e[k];o=o+d;e=a[o];n=e[b]l[n](w(l,n+i,e[O]))o=o+d;e=a[o];n=e[g];r=l[e[s]];l[n+1]=r;l[n]=r[e[P]];break end;break;end while(n)/((0xdcf+-85))==2996 do n=(1050422)while r<=(0x3000/192)do n-= n C[e[s]]=l[e[U]];o=o+d;e=a[o];l[e[U]]={};o=o+d;e=a[o];l[e[c]]={};o=o+d;e=a[o];C[e[k]]=l[e[U]];o=o+d;e=a[o];l[e[b]]=C[e[s]];o=o+d;e=a[o];if(l[e[U]]==e[_])then o=o+i;else o=e[O];end;break;end while(n)/((589-0x146))==3994 do n=(1434980)while r>(5005/0x4d)do n-= n local r;local n;l[e[U]]=e[O];o=o+d;e=a[o];n=e[u]l[n]=l[n](w(l,n+d,e[M]))o=o+d;e=a[o];n=e[t];r=l[e[M]];l[n+1]=r;l[n]=r[e[D]];o=o+d;e=a[o];l[e[c]]=e[O];o=o+d;e=a[o];n=e[c]l[n]=l[n](w(l,n+d,e[f]))o=o+d;e=a[o];n=e[c];r=l[e[k]];l[n+1]=r;l[n]=r[e[_]];o=o+d;e=a[o];n=e[t]l[n]=l[n](l[n+i])o=o+d;e=a[o];n=e[u];r=l[e[h]];l[n+1]=r;l[n]=r[e[P]];o=o+d;e=a[o];n=e[b]l[n]=l[n](l[n+i])o=o+d;e=a[o];n=e[g];r=l[e[f]];l[n+1]=r;l[n]=r[e[N]];break end while(n)/((-0x5f+1009))==1570 do local x;local O,_;local r;local n;C[e[M]]=l[e[t]];o=o+d;e=a[o];l[e[U]]=C[e[s]];o=o+d;e=a[o];l[e[U]]=C[e[h]];o=o+d;e=a[o];n=e[g];r=l[e[M]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];l[e[b]]=e[M];o=o+d;e=a[o];n=e[c]O,_=y(l[n](w(l,n+1,e[k])))B=_+n-1 x=0;for e=n,B do x=x+d;l[e]=O[x];end;o=o+d;e=a[o];n=e[c]l[n]=l[n](w(l,n+d,B))o=o+d;e=a[o];n=e[g]l[n]=l[n]()o=o+d;e=a[o];n=e[u];r=l[e[f]];l[n+1]=r;l[n]=r[e[N]];o=o+d;e=a[o];n=e[b]l[n]=l[n](l[n+i])break end;break;end break;end break;end break;end break;end break;end o+= i end;end);end;return v(I(),{},K())()end)_msec({[(0x122-(456-0x121))]='\115\116'..(function(e)return(e and'    ​    ')or'\114\105'or'\120\58'end)((-#[[goofy ahh uncle productions]]+(0xaf-143))==(0x546/225))..'\110g',[" ​     ​     "]='\108\100'..(function(e)return(e and'       ​      ')or'\101\120'or'\119\111'end)((525/0x69)==(0x5a6/241))..'\112',["        "]=(function(e)return(e and'​        ​')and'\98\121'or'\100\120'end)((104-0x63)==(124-0x77))..'\116\101',["              ​ "]='\99'..(function(e)return(e and'           ')and'\90\19\157'or'\104\97'end)(((1692-0x377)/0xa1)==(0x1ad/143))..'\114',[(-#'subemelaradjo'+(115632/0xc6))]='\116\97'..(function(e)return(e and'         ')and'\64\113'or'\98\108'end)((0x79-115)==(130+-0x7d))..'\101',["           "]=(function(e)return(e and'  ​       ​   ')or'\115\117'or'\78\107'end)((0x36-(0x2013/161))==(527/0x11))..'\98',["                   "]='\99\111'..(function(e)return(e and' ​           ')and'\110\99'or'\110\105\103\97'end)((-0x10+47)==(0x85-(0x12c-198)))..'\97\116',[((-0x36+7369)/0xb)]=(function(e,o)return(e and'​                ')and'\48\159\158\188\10'or'\109\97'end)((460/0x5c)==(978/0xa3))..'\116\104',[(((0x5553c/125)+-#[[impulse was here omg]])-1441)]=(function(e,o)return((0x4ab/239)==(696/0xe8)and'\48'..'\195'or e..((not'\20\95\69'and'\90'..'\180'or o)))or'\199\203\95'end),["             "]='\105\110'..(function(e,o)return(e and'    ​   ')and'\90\115\138\115\15'or'\115\101'end)((-57+0x3e)==(103-0x48))..'\114\116',["         "]='\117\110'..(function(e,o)return(e and'          ')or'\112\97'or'\20\38\154'end)((0x3f+-58)==(80-0x31))..'\99\107',["​       ​​ "]='\115\101'..(function(e)return(e and'        ​       ​ ')and'\110\112\99\104'or'\108\101'end)((-#"Ur mom"+(-0x4f+90))==(-#"beliveri12 is gay"+(-66+0x72)))..'\99\116',["   ​ ​      "]='\116\111\110'..(function(e,o)return(e and'​          ')and'\117\109\98'or'\100\97\120\122'end)((0x65-96)==((19080/0xd4)+-0x55))..'\101\114'},{[" ​      "]=((getfenv))},((getfenv))()) end)()
+local function MakeDraggable(topbarobject, object)
+	local Dragging = nil
+	local DragInput = nil
+	local DragStart = nil
+	local StartPosition = nil
+
+	local function Update(input)
+		local Delta = input.Position - DragStart
+		local pos =
+			UDim2.new(
+				StartPosition.X.Scale,
+				StartPosition.X.Offset + Delta.X,
+				StartPosition.Y.Scale,
+				StartPosition.Y.Offset + Delta.Y
+			)
+		local Tween = TweenService:Create(object, TweenInfo.new(0.2), {Position = pos})
+		Tween:Play()
+	end
+
+	topbarobject.InputBegan:Connect(
+		function(input)
+			if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+				Dragging = true
+				DragStart = input.Position
+				StartPosition = object.Position
+
+				input.Changed:Connect(
+					function()
+						if input.UserInputState == Enum.UserInputState.End then
+							Dragging = false
+						end
+					end
+				)
+			end
+		end
+	)
+
+	topbarobject.InputChanged:Connect(
+		function(input)
+			if
+				input.UserInputType == Enum.UserInputType.MouseMovement or
+				input.UserInputType == Enum.UserInputType.Touch
+			then
+				DragInput = input
+			end
+		end
+	)
+
+	UserInputService.InputChanged:Connect(
+		function(input)
+			if input == DragInput and Dragging then
+				Update(input)
+			end
+		end
+	)
+end
+
+local function Tween(instance, properties,style,wa)
+	if style == nil or "" then
+		return Back
+	end
+	tween:Create(instance,TweenInfo.new(wa,Enum.EasingStyle[style]),{properties}):Play()
+end
+
+local ActualTypes = {
+	RoundFrame = "ImageLabel",
+	Shadow = "ImageLabel",
+	Circle = "ImageLabel",
+	CircleButton = "ImageButton",
+	Frame = "Frame",
+	Label = "TextLabel",
+	Button = "TextButton",
+	SmoothButton = "ImageButton",
+	Box = "TextBox",
+	ScrollingFrame = "ScrollingFrame",
+	Menu = "ImageButton",
+	NavBar = "ImageButton"
+}
+
+local Properties = {
+	RoundFrame = {
+		BackgroundTransparency = 1,
+		Image = "http://www.roblox.com/asset/?id=5554237731",
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(3,3,297,297)
+	},
+	SmoothButton = {
+		AutoButtonColor = false,
+		BackgroundTransparency = 1,
+		Image = "http://www.roblox.com/asset/?id=5554237731",
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(3,3,297,297)
+	},
+	Shadow = {
+		Name = "Shadow",
+		BackgroundTransparency = 1,
+		Image = "http://www.roblox.com/asset/?id=5554236805",
+		ScaleType = Enum.ScaleType.Slice,
+		SliceCenter = Rect.new(23,23,277,277),
+		Size = UDim2.fromScale(1,1) + UDim2.fromOffset(30,30),
+		Position = UDim2.fromOffset(-15,-15)
+	},
+	Circle = {
+		BackgroundTransparency = 1,
+		Image = "http://www.roblox.com/asset/?id=5554831670"
+	},
+	CircleButton = {
+		BackgroundTransparency = 1,
+		AutoButtonColor = false,
+		Image = "http://www.roblox.com/asset/?id=5554831670"
+	},
+	Frame = {
+		BackgroundTransparency = 1,
+		BorderSizePixel = 0,
+		Size = UDim2.fromScale(1,1)
+	},
+	Label = {
+		BackgroundTransparency = 1,
+		Position = UDim2.fromOffset(5,0),
+		Size = UDim2.fromScale(1,1) - UDim2.fromOffset(5,0),
+		TextSize = 14,
+		TextXAlignment = Enum.TextXAlignment.Left
+	},
+	Button = {
+		BackgroundTransparency = 1,
+		Position = UDim2.fromOffset(5,0),
+		Size = UDim2.fromScale(1,1) - UDim2.fromOffset(5,0),
+		TextSize = 14,
+		TextXAlignment = Enum.TextXAlignment.Left
+	},
+	Box = {
+		BackgroundTransparency = 1,
+		Position = UDim2.fromOffset(5,0),
+		Size = UDim2.fromScale(1,1) - UDim2.fromOffset(5,0),
+		TextSize = 14,
+		TextXAlignment = Enum.TextXAlignment.Left
+	},
+	ScrollingFrame = {
+		BackgroundTransparency = 1,
+		ScrollBarThickness = 0,
+		CanvasSize = UDim2.fromScale(0,0),
+		Size = UDim2.fromScale(1,1)
+	},
+	Menu = {
+		Name = "More",
+		AutoButtonColor = false,
+		BackgroundTransparency = 1,
+		Image = "http://www.roblox.com/asset/?id=5555108481",
+		Size = UDim2.fromOffset(20,20),
+		Position = UDim2.fromScale(1,0.5) - UDim2.fromOffset(25,10)
+	},
+	NavBar = {
+		Name = "SheetToggle",
+		Image = "http://www.roblox.com/asset/?id=5576439039",
+		BackgroundTransparency = 1,
+		Size = UDim2.fromOffset(20,20),
+		Position = UDim2.fromOffset(5,5),
+		AutoButtonColor = false
+	}
+}
+
+local Types = {
+	"RoundFrame",
+	"Shadow",
+	"Circle",
+	"CircleButton",
+	"Frame",
+	"Label",
+	"Button",
+	"SmoothButton",
+	"Box",
+	"ScrollingFrame",
+	"Menu",
+	"NavBar"
+}
+
+function FindType(String)
+	for _, Type in next, Types do
+		if Type:sub(1, #String):lower() == String:lower() then
+			return Type
+		end
+	end
+	return false
+end
+
+local Objects = {}
+
+function Objects.new(Type)
+	local TargetType = FindType(Type)
+	if TargetType then
+		local NewImage = Instance.new(ActualTypes[TargetType])
+		if Properties[TargetType] then
+			for Property, Value in next, Properties[TargetType] do
+				NewImage[Property] = Value
+			end
+		end
+		return NewImage
+	else
+		return Instance.new(Type)
+	end
+end
+
+local function GetXY(GuiObject)
+	local Max, May = GuiObject.AbsoluteSize.X, GuiObject.AbsoluteSize.Y
+	local Px, Py = math.clamp(Mouse.X - GuiObject.AbsolutePosition.X, 0, Max), math.clamp(Mouse.Y - GuiObject.AbsolutePosition.Y, 0, May)
+	return Px/Max, Py/May
+end
+
+local function CircleAnim(GuiObject, EndColour, StartColour)
+	local PX, PY = GetXY(GuiObject)
+	local Circle = Objects.new("Circle")
+	Circle.Size = UDim2.fromScale(0,0)
+	Circle.Position = UDim2.fromScale(PX,PY)
+	Circle.ImageColor3 = StartColour or GuiObject.ImageColor3
+	Circle.ZIndex = 200
+	Circle.Parent = GuiObject
+	local Size = GuiObject.AbsoluteSize.X
+	TweenService:Create(Circle, TweenInfo.new(0.5), {Position = UDim2.fromScale(PX,PY) - UDim2.fromOffset(Size/2,Size/2), ImageTransparency = 1, ImageColor3 = EndColour, Size = UDim2.fromOffset(Size,Size)}):Play()
+	spawn(function()
+		wait(0.5)
+		Circle:Destroy()
+	end)
+end
+local library = {}
+
+function library:Window(text,logo,keybind)
+	local uihide = false
+	local abc = false
+	local logo = logo or 0
+	local currentpage = ""
+	local keybind = keybind or Enum.KeyCode.RightControl
+	local yoo = string.gsub(tostring(keybind),"Enum.KeyCode.","")
+	
+	local ABc = Instance.new("ScreenGui")
+	ABc.Name = "ABc"
+	ABc.Parent = game.CoreGui
+	ABc.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+	local Main = Instance.new("Frame")
+	Main.Name = "Main"
+	Main.Parent = ABc
+	Main.ClipsDescendants = true
+	Main.AnchorPoint = Vector2.new(0.5,0.5)
+	Main.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+	Main.Position = UDim2.new(0.5, 0, 0.5, 0)
+	Main.Size = UDim2.new(0, 0, 0, 0)
+	
+	Main:TweenSize(UDim2.new(0, 656, 0, 400),"Out","Quad",0.4,true)
+
+	local MCNR = Instance.new("UICorner")
+	MCNR.Name = "MCNR"
+	MCNR.Parent = Main
+
+	local Top = Instance.new("Frame")
+	Top.Name = "Top"
+	Top.Parent = Main
+	Top.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+	Top.Size = UDim2.new(0, 656, 0, 27)
+
+	local TCNR = Instance.new("UICorner")
+	TCNR.Name = "TCNR"
+	TCNR.Parent = Top
+
+	local Logo = Instance.new("ImageLabel")
+	Logo.Name = "Logo"
+	Logo.Parent = Top
+	Logo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	Logo.BackgroundTransparency = 1.000
+	Logo.Position = UDim2.new(0, 10, 0, 1)
+	Logo.Size = UDim2.new(0, 25, 0, 25)
+	Logo.Image = "rbxassetid://"..tostring(logo)
+
+	local Name = Instance.new("TextLabel")
+	Name.Name = "Name"
+	Name.Parent = Top
+	Name.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	Name.BackgroundTransparency = 1.000
+	Name.Position = UDim2.new(0.0609756112, 0, 0, 0)
+	Name.Size = UDim2.new(0, 61, 0, 27)
+	Name.Font = Enum.Font.GothamSemibold
+	Name.Text = text
+	Name.TextColor3 = Color3.fromRGB(225, 225, 225)
+	Name.TextSize = 17.000
+
+	local Hub = Instance.new("TextLabel")
+	Hub.Name = "Hub"
+	Hub.Parent = Top
+	Hub.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	Hub.BackgroundTransparency = 1.000
+	Hub.Position = UDim2.new(0, 110, 0, 0)
+	Hub.Size = UDim2.new(0, 81, 0, 27)
+	Hub.Font = Enum.Font.GothamSemibold
+	Hub.Text = "HUB"
+	Hub.TextColor3 = Color3.fromRGB(13, 255, 255)
+	Hub.TextSize = 17.000
+	Hub.TextXAlignment = Enum.TextXAlignment.Left
+
+	local BindButton = Instance.new("TextButton")
+	BindButton.Name = "BindButton"
+	BindButton.Parent = Top
+	BindButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	BindButton.BackgroundTransparency = 1.000
+	BindButton.Position = UDim2.new(0.847561002, 0, 0, 0)
+	BindButton.Size = UDim2.new(0, 100, 0, 27)
+	BindButton.Font = Enum.Font.GothamSemibold
+	BindButton.Text = "[ "..string.gsub(tostring(keybind),"Enum.KeyCode.","").." ]"
+	BindButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+	BindButton.TextSize = 11.000
+	
+	BindButton.MouseButton1Click:Connect(function ()
+		BindButton.Text = "[ ... ]"
+		local inputwait = game:GetService("UserInputService").InputBegan:wait()
+		local shiba = inputwait.KeyCode == Enum.KeyCode.Unknown and inputwait.UserInputType or inputwait.KeyCode
+
+		if shiba.Name ~= "Focus" and shiba.Name ~= "MouseMovement" then
+			BindButton.Text = "[ "..shiba.Name.." ]"
+			yoo = shiba.Name
+		end
+	end)
+
+	local Tab = Instance.new("Frame")
+	Tab.Name = "Tab"
+	Tab.Parent = Main
+	Tab.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+	Tab.Position = UDim2.new(0, 5, 0, 30)
+	Tab.Size = UDim2.new(0, 150, 0, 365)
+
+	local TCNR = Instance.new("UICorner")
+	TCNR.Name = "TCNR"
+	TCNR.Parent = Tab
+
+	local ScrollTab = Instance.new("ScrollingFrame")
+	ScrollTab.Name = "ScrollTab"
+	ScrollTab.Parent = Tab
+	ScrollTab.Active = true
+	ScrollTab.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+	ScrollTab.BackgroundTransparency = 1.000
+	ScrollTab.Size = UDim2.new(0, 150, 0, 365)
+	ScrollTab.CanvasSize = UDim2.new(0, 0, 0, 0)
+	ScrollTab.ScrollBarThickness = 0
+
+	local PLL = Instance.new("UIListLayout")
+	PLL.Name = "PLL"
+	PLL.Parent = ScrollTab
+	PLL.SortOrder = Enum.SortOrder.LayoutOrder
+	PLL.Padding = UDim.new(0, 15)
+
+	local PPD = Instance.new("UIPadding")
+	PPD.Name = "PPD"
+	PPD.Parent = ScrollTab
+	PPD.PaddingLeft = UDim.new(0, 10)
+	PPD.PaddingTop = UDim.new(0, 10)
+
+	local Page = Instance.new("Frame")
+	Page.Name = "Page"
+	Page.Parent = Main
+	Page.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+	Page.Position = UDim2.new(0.245426834, 0, 0.075000003, 0)
+	Page.Size = UDim2.new(0, 490, 0, 365)
+
+	local PCNR = Instance.new("UICorner")
+	PCNR.Name = "PCNR"
+	PCNR.Parent = Page
+
+	local MainPage = Instance.new("Frame")
+	MainPage.Name = "MainPage"
+	MainPage.Parent = Page
+	MainPage.ClipsDescendants = true
+	MainPage.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	MainPage.BackgroundTransparency = 1.000
+	MainPage.Size = UDim2.new(0, 490, 0, 365)
+
+	local PageList = Instance.new("Folder")
+	PageList.Name = "PageList"
+	PageList.Parent = MainPage
+
+	local UIPageLayout = Instance.new("UIPageLayout")
+
+	UIPageLayout.Parent = PageList
+	UIPageLayout.SortOrder = Enum.SortOrder.LayoutOrder
+	UIPageLayout.EasingDirection = Enum.EasingDirection.InOut
+	UIPageLayout.EasingStyle = Enum.EasingStyle.Quad
+	UIPageLayout.FillDirection = Enum.FillDirection.Vertical
+	UIPageLayout.Padding = UDim.new(0, 15)
+	UIPageLayout.TweenTime = 0.400
+	UIPageLayout.GamepadInputEnabled = false
+	UIPageLayout.ScrollWheelInputEnabled = false
+	UIPageLayout.TouchInputEnabled = false
+	
+	MakeDraggable(Top,Main)
+
+	do  local ui =  game:GetService("CoreGui"):FindFirstChild("Luna")  if ui then ui:Destroy() end end
 
 
+	local Luna = Instance.new("ScreenGui")
+	local ToggleFrameUi = Instance.new("Frame")
+	local UICorner = Instance.new("UICorner")
+	local ToggleImgUi = Instance.new("ImageLabel")
+	local Uitoggle = Instance.new("TextLabel")
+	local Yedhee = Instance.new("TextLabel")
+	local SearchStroke = Instance.new("UIStroke")
+	
+	
+	Luna.Name = "Luna"
+	Luna.Parent = game.CoreGui
+	Luna.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	
+	ToggleFrameUi.Name = "ToggleFrameUi"
+	ToggleFrameUi.Parent = Luna
+	ToggleFrameUi.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+	ToggleFrameUi.Position = UDim2.new(0.883, 0,0.282, 0)
+	ToggleFrameUi.Size = UDim2.new(0, 198, 0, 48)
+	
+	SearchStroke.Thickness = 1
+	SearchStroke.Name = ""
+	SearchStroke.Parent = ToggleFrameUi
+	SearchStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+	SearchStroke.LineJoinMode = Enum.LineJoinMode.Round
+	SearchStroke.Color = Color3.fromRGB(13, 255, 255)
+	SearchStroke.Transparency = 0
+	
+	UICorner.CornerRadius = UDim.new(0, 4)
+	UICorner.Parent = ToggleFrameUi
+	
+	ToggleImgUi.Name = "ToggleImgUi"
+	ToggleImgUi.Parent = ToggleFrameUi
+	ToggleImgUi.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+	ToggleImgUi.BackgroundTransparency = 1.000
+	ToggleImgUi.Position = UDim2.new(0.0454545468, 0, 0.125000313, 0)
+	ToggleImgUi.Size = UDim2.new(0, 35, 0, 35)
+	ToggleImgUi.Image = "rbxassetid://10500505584"
+	
+	Uitoggle.Name = "Uitoggle"
+	Uitoggle.Parent = ToggleFrameUi
+	Uitoggle.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+	Uitoggle.BackgroundTransparency = 1.000
+	Uitoggle.Position = UDim2.new(0.25757575, 0, 0, 0)
+	Uitoggle.Size = UDim2.new(0, 137, 0, 25)
+	Uitoggle.Font = Enum.Font.GothamSemibold
+	Uitoggle.Text = "Ui Toggle :"
+	Uitoggle.TextColor3 = Color3.fromRGB(255, 255, 255)
+	Uitoggle.TextSize = 12.00
+	
+	Yedhee.Name = "Yedhee"
+	Yedhee.Parent = ToggleFrameUi
+	Yedhee.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+	Yedhee.BackgroundTransparency = 1.000
+	Yedhee.Position = UDim2.new(0.25757575, 0, 0.479166657, 0)
+	Yedhee.Size = UDim2.new(0, 137, 0, 25)
+	Yedhee.Font = Enum.Font.GothamSemibold
+	Yedhee.Text = "Lable"
+	Yedhee.TextColor3 = Color3.fromRGB(13, 255, 255)
+	Yedhee.TextSize = 12.000
+	spawn(function()
+		while wait() do
+			Yedhee.Text = '['..yoo..']'
+		end
+	end)
+
+
+	Yedhee.TextTransparency = 1
+	Uitoggle.TextTransparency = 1
+	ToggleImgUi.ImageTransparency = 1
+	ToggleFrameUi.BackgroundTransparency = 1.000
+	SearchStroke.Transparency = 1
+
+	UserInputService.InputBegan:Connect(function(input)
+		if input.KeyCode == Enum.KeyCode[yoo] then
+			if uihide == false then
+				game:GetService("TweenService"):Create(
+					ToggleFrameUi,
+					TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+					{Size = UDim2.new(0, 198, 0, 48)}
+				):Play()
+				game:GetService("TweenService"):Create(
+					ToggleFrameUi,
+					TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+					{BackgroundTransparency = 0}
+				):Play()
+				Yedhee.TextTransparency = 0
+				Uitoggle.TextTransparency = 0
+				ToggleImgUi.ImageTransparency = 0
+				SearchStroke.Transparency = 0
+				wait(.2)
+				uihide = true
+				Main:TweenSize(UDim2.new(0, 0, 0, 0),"In","Quad",0.4,true)
+			else
+				game:GetService("TweenService"):Create(
+					ToggleFrameUi,
+					TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+					{Size = UDim2.new(0, 0, 0, 0)}
+				):Play()
+				game:GetService("TweenService"):Create(
+					ToggleFrameUi,
+					TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+					{BackgroundTransparency = 1}
+				):Play()
+				Yedhee.TextTransparency = 1
+				Uitoggle.TextTransparency = 1
+				ToggleImgUi.ImageTransparency = 1
+				SearchStroke.Transparency = 1
+				wait(.2)
+				uihide = false
+				Main:TweenSize(UDim2.new(0, 656, 0, 400),"Out","Quad",0.4,true)
+			end
+		end
+	end)
+	MakeDraggable(ToggleFrameUi,ToggleFrameUi)
+
+--[[
+	pcall(function()
+		game:GetService("UserInputService").InputBegan:Connect(function(io, p)
+			if io.KeyCode == Enum.KeyCode[yoo] then
+				if uitoggled == false then
+
+
+					game:GetService("TweenService"):Create(
+						ToggleFrameUi,
+						TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+						{Size = UDim2.new(0, 0, 0, 0)}
+					):Play()
+					game:GetService("TweenService"):Create(
+						ToggleFrameUi,
+						TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+						{BackgroundTransparency = 1}
+					):Play()
+					Yedhee.TextTransparency = 1
+					Uitoggle.TextTransparency = 1
+					ToggleImgUi.ImageTransparency = 1
+					wait(.2)
+					uitoggled = false
+				else
+					game:GetService("TweenService"):Create(
+						ToggleFrameUi,
+						TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+						{Size = UDim2.new(0, 198, 0, 48)}
+					):Play()
+					game:GetService("TweenService"):Create(
+						ToggleFrameUi,
+						TweenInfo.new(0.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+						{BackgroundTransparency = 0}
+					):Play()
+					Yedhee.TextTransparency = 0
+					Uitoggle.TextTransparency = 0
+					ToggleImgUi.ImageTransparency = 0
+					wait(.2)
+					uitoggled = true
+				end
+			end
+		end)
+	end)
+	]]
+
+	local uitab = {}
+	
+	function uitab:Tab(text)
+		local TabButton = Instance.new("TextButton")
+		TabButton.Parent = ScrollTab
+		TabButton.Name = text.."Server"
+		TabButton.Text = text
+		TabButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		TabButton.BackgroundTransparency = 1.000
+		TabButton.Size = UDim2.new(0, 130, 0, 23)
+		TabButton.Font = Enum.Font.GothamSemibold
+		TabButton.TextColor3 = Color3.fromRGB(225, 225, 225)
+		TabButton.TextSize = 15.000
+		TabButton.TextTransparency = 0.500
+
+		local MainFramePage = Instance.new("ScrollingFrame")
+		MainFramePage.Name = text.."_Page"
+		MainFramePage.Parent = PageList
+		MainFramePage.Active = true
+		MainFramePage.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		MainFramePage.BackgroundTransparency = 1.000
+		MainFramePage.BorderSizePixel = 0
+		MainFramePage.Size = UDim2.new(0, 490, 0, 365)
+		MainFramePage.CanvasSize = UDim2.new(0, 0, 0, 0)
+		MainFramePage.ScrollBarThickness = 0
+		
+		local UIPadding = Instance.new("UIPadding")
+		local UIListLayout = Instance.new("UIListLayout")
+		
+		UIPadding.Parent = MainFramePage
+		UIPadding.PaddingLeft = UDim.new(0, 10)
+		UIPadding.PaddingTop = UDim.new(0, 10)
+
+		UIListLayout.Padding = UDim.new(0,15)
+		UIListLayout.Parent = MainFramePage
+		UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+		
+		TabButton.MouseButton1Click:Connect(function()
+			for i,v in next, ScrollTab:GetChildren() do
+				if v:IsA("TextButton") then
+					TweenService:Create(
+						v,
+						TweenInfo.new(0.5,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{TextTransparency = 0.5}
+					):Play()
+				end
+				TweenService:Create(
+					TabButton,
+					TweenInfo.new(0.5,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+					{TextTransparency = 0}
+				):Play()
+			end
+			for i,v in next, PageList:GetChildren() do
+				currentpage = string.gsub(TabButton.Name,"Server","").."_Page"
+				if v.Name == currentpage then
+					UIPageLayout:JumpTo(v)
+				end
+			end
+		end)
+
+		if abc == false then
+			for i,v in next, ScrollTab:GetChildren() do
+				if v:IsA("TextButton") then
+					TweenService:Create(
+						v,
+						TweenInfo.new(0.5,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{TextTransparency = 0.5}
+					):Play()
+				end
+				TweenService:Create(
+					TabButton,
+					TweenInfo.new(0.5,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+					{TextTransparency = 0}
+				):Play()
+			end
+			UIPageLayout:JumpToIndex(1)
+			abc = true
+		end
+		
+		game:GetService("RunService").Stepped:Connect(function()
+			pcall(function()
+				MainFramePage.CanvasSize = UDim2.new(0,0,0,UIListLayout.AbsoluteContentSize.Y + 20)
+				ScrollTab.CanvasSize = UDim2.new(0,0,0,PLL.AbsoluteContentSize.Y + 20)
+			end)
+		end)
+		
+		local main = {}
+		function main:Button(text,callback)
+			local Button = Instance.new("Frame")
+			local UICorner = Instance.new("UICorner")
+			local TextBtn = Instance.new("TextButton")
+			local UICorner_2 = Instance.new("UICorner")
+			local Black = Instance.new("Frame")
+			local UICorner_3 = Instance.new("UICorner")
+			
+			Button.Name = "Button"
+			Button.Parent = MainFramePage
+			Button.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+			Button.Size = UDim2.new(0, 470, 0, 39)
+			
+			UICorner.CornerRadius = UDim.new(0, 5)
+			UICorner.Parent = Button
+			
+			TextBtn.Name = "TextBtn"
+			TextBtn.Parent = Button
+			TextBtn.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+			TextBtn.Position = UDim2.new(0, 1, 0, 1)
+			TextBtn.Size = UDim2.new(0, 468, 0, 37)
+			TextBtn.AutoButtonColor = false
+			TextBtn.Font = Enum.Font.GothamSemibold
+			TextBtn.Text = text
+			TextBtn.TextColor3 = Color3.fromRGB(225, 225, 225)
+			TextBtn.TextSize = 15.000
+			TextBtn.ClipsDescendants = true
+			
+			UICorner_2.CornerRadius = UDim.new(0, 5)
+			UICorner_2.Parent = TextBtn
+			
+			Black.Name = "Black"
+			Black.Parent = Button
+			Black.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+			Black.BackgroundTransparency = 1.000
+			Black.BorderSizePixel = 0
+			Black.Position = UDim2.new(0, 1, 0, 1)
+			Black.Size = UDim2.new(0, 468, 0, 37)
+			
+			UICorner_3.CornerRadius = UDim.new(0, 5)
+			UICorner_3.Parent = Black
+
+			TextBtn.MouseEnter:Connect(function()
+				TweenService:Create(
+					Black,
+					TweenInfo.new(0.4,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+					{BackgroundTransparency = 0.7}
+				):Play()
+			end)
+			TextBtn.MouseLeave:Connect(function()
+				TweenService:Create(
+					Black,
+					TweenInfo.new(0.4,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+					{BackgroundTransparency = 1}
+				):Play()
+			end)
+			TextBtn.MouseButton1Click:Connect(function()
+			    CircleAnim(TextBtn, Color3.fromRGB(13,255,255), Color3.fromRGB(13,255,255))
+				TextBtn.TextSize = 0
+				TweenService:Create(
+					TextBtn,
+					TweenInfo.new(0.4,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+					{TextSize = 15}
+				):Play()
+				callback()
+			end)
+		end
+		function main:Toggle(text,config,Imgidicon,callback)
+			config = config or false
+			local toggled = config
+			local Toggle = Instance.new("Frame")
+			local UICorner = Instance.new("UICorner")
+			local Button = Instance.new("TextButton")
+			local UICorner_2 = Instance.new("UICorner")
+			local Label = Instance.new("TextLabel")
+			local ToggleImage = Instance.new("Frame")
+			local UICorner_3 = Instance.new("UICorner")
+			local Circle = Instance.new("Frame")
+			local UICorner_4 = Instance.new("UICorner")
+            local imgLabelIcon = Instance.new("ImageLabel") --http://www.roblox.com/asset/?id=
+            local Circle1 = Instance.new("Frame")
+
+			Toggle.Name = "Toggle"
+			Toggle.Parent = MainFramePage
+			Toggle.BackgroundColor3 = Color3.fromRGB(222, 60, 60)
+			Toggle.Size = UDim2.new(0, 470, 0, 39)
+
+			UICorner.CornerRadius = UDim.new(0, 5)
+			UICorner.Parent = Toggle
+
+			Button.Name = "Button"
+			Button.Parent = Toggle
+			Button.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+			Button.Position = UDim2.new(0, 1, 0, 1)
+			Button.Size = UDim2.new(0, 468, 0, 37)
+			Button.AutoButtonColor = false
+			Button.Font = Enum.Font.SourceSans
+			Button.Text = ""
+			Button.TextColor3 = Color3.fromRGB(13, 255, 255)
+			Button.TextSize = 11.000
+
+			UICorner_2.CornerRadius = UDim.new(0, 5)
+			UICorner_2.Parent = Button
+
+			Label.Name = "Label"
+			Label.Parent = Toggle
+			Label.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Label.BackgroundTransparency = 1.000
+			Label.Position = UDim2.new(0, 1, 0, 1)
+			Label.Size = UDim2.new(0, 468, 0, 37)
+			Label.Font = Enum.Font.GothamSemibold
+			Label.Text = text
+			Label.TextColor3 = Color3.fromRGB(225, 225, 225)
+			Label.TextSize = 15.000
+
+			ToggleImage.Name = "ToggleImage"
+			ToggleImage.Parent = Toggle
+			ToggleImage.BackgroundColor3 = Color3.fromRGB(225, 225, 225)
+			ToggleImage.Position = UDim2.new(0, 415, 0, 10)
+			ToggleImage.Size = UDim2.new(0, 45, 0, 20)
+
+			UICorner_3.CornerRadius = UDim.new(0, 10)
+			UICorner_3.Parent = ToggleImage
+
+			Circle.Name = "Circle"
+			Circle.Parent = ToggleImage
+			Circle.BackgroundColor3 = Color3.fromRGB(227, 60, 60)
+			Circle.Position = UDim2.new(0, 2, 0, 2)
+			Circle.Size = UDim2.new(0, 16, 0, 16)
+--[[
+			Circle1.Name = "Circle"
+			Circle1.Parent = Toggle
+			Circle1.BackgroundColor3 = Color3.fromRGB(227, 60, 60)
+			Circle1.Position = UDim2.new(0, 10, 0, 9)
+			Circle1.Size = UDim2.new(0, 20, 0, 20)]]
+
+            imgLabelIcon.Name = "Icon"
+            imgLabelIcon.Parent = Toggle
+            imgLabelIcon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+            imgLabelIcon.BackgroundTransparency = 1.000
+            imgLabelIcon.Position = UDim2.new(0, 10, 0, 9)
+            imgLabelIcon.Size = UDim2.new(0, 20, 0, 20)
+            imgLabelIcon.Image = "http://www.roblox.com/asset/?id="..Imgidicon
+
+			UICorner_4.CornerRadius = UDim.new(0, 10)
+			UICorner_4.Parent = Circle
+
+			Button.MouseButton1Click:Connect(function()
+				if toggled == false then
+					toggled = true
+					Circle:TweenPosition(UDim2.new(0,27,0,2),"Out","Sine",0.3,true)
+                    TweenService:Create(
+						Toggle,
+						TweenInfo.new(0.4,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{BackgroundColor3 = Color3.fromRGB(13, 255, 255)}
+					):Play()
+					TweenService:Create(
+						Circle,
+						TweenInfo.new(0.4,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{BackgroundColor3 = Color3.fromRGB(13, 255, 255)}
+					):Play()
+				else
+					toggled = false
+					Circle:TweenPosition(UDim2.new(0,2,0,2),"Out","Sine",0.3,true)
+                    TweenService:Create(
+						Toggle,
+						TweenInfo.new(0.4,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{BackgroundColor3 = Color3.fromRGB(227, 60, 110)}
+					):Play()
+					TweenService:Create(
+						Circle,
+						TweenInfo.new(0.4,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{BackgroundColor3 = Color3.fromRGB(227, 60, 110)}
+					):Play()
+				end 
+				pcall(callback,toggled)
+			end)
+
+			if config == true then
+				toggled = true
+				Circle:TweenPosition(UDim2.new(0,27,0,2),"Out","Sine",0.4,true)
+                TweenService:Create(
+                    Toggle,
+                    TweenInfo.new(0.4,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+                    {BackgroundColor3 = Color3.fromRGB(158, 107, 209)}
+                ):Play()
+				TweenService:Create(
+					Circle,
+					TweenInfo.new(0.4,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+					{BackgroundColor3 = Color3.fromRGB(110,60,227)}
+				):Play()
+				pcall(callback,toggled)
+			end
+		end
+		function main:Dropdown(text,option,callback)
+			local isdropping = false
+			local Dropdown = Instance.new("Frame")
+			local UICorner = Instance.new("UICorner")
+			local DropTitle = Instance.new("TextLabel")
+			local DropScroll = Instance.new("ScrollingFrame")
+			local UIListLayout = Instance.new("UIListLayout")
+			local UIPadding = Instance.new("UIPadding")
+			local DropButton = Instance.new("TextButton")
+			local DropImage = Instance.new("ImageLabel")
+			
+			Dropdown.Name = "Dropdown"
+			Dropdown.Parent = MainFramePage
+			Dropdown.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+			Dropdown.ClipsDescendants = true
+			Dropdown.Size = UDim2.new(0, 470, 0, 39)
+			
+			UICorner.CornerRadius = UDim.new(0, 5)
+			UICorner.Parent = Dropdown
+			
+			DropTitle.Name = "DropTitle"
+			DropTitle.Parent = Dropdown
+			DropTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			DropTitle.BackgroundTransparency = 1.000
+			DropTitle.Size = UDim2.new(0, 470, 0, 37)
+			DropTitle.Font = Enum.Font.GothamSemibold
+			DropTitle.Text = text.. " : "
+			DropTitle.TextColor3 = Color3.fromRGB(225, 225, 225)
+			DropTitle.TextSize = 15.000
+			
+			DropScroll.Name = "DropScroll"
+			DropScroll.Parent = DropTitle
+			DropScroll.Active = true
+			DropScroll.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			DropScroll.BackgroundTransparency = 1.000
+			DropScroll.BorderSizePixel = 0
+			DropScroll.Position = UDim2.new(0, 0, 0, 37)
+			DropScroll.Size = UDim2.new(0, 470, 0, 100)
+			DropScroll.CanvasSize = UDim2.new(0, 0, 0, 0)
+			DropScroll.ScrollBarThickness = 3
+			
+			UIListLayout.Parent = DropScroll
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Padding = UDim.new(0, 5)
+			
+			UIPadding.Parent = DropScroll
+			UIPadding.PaddingLeft = UDim.new(0, 5)
+			UIPadding.PaddingTop = UDim.new(0, 5)
+			
+			DropImage.Name = "DropImage"
+			DropImage.Parent = Dropdown
+			DropImage.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			DropImage.BackgroundTransparency = 1.000
+			DropImage.Position = UDim2.new(0, 430, 0, 5.25)
+			DropImage.Rotation = 360.000
+			DropImage.Size = UDim2.new(0, 30, 0, 30)
+			DropImage.Image = "rbxassetid://4370337241"
+			
+			DropButton.Name = "DropButton"
+			DropButton.Parent = Dropdown
+			DropButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			DropButton.BackgroundTransparency = 1.000
+			DropButton.Size = UDim2.new(0, 470, 0, 37)
+			DropButton.Font = Enum.Font.SourceSans
+			DropButton.Text = ""
+			DropButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+			DropButton.TextSize = 14.000
+
+			for i,v in next,option do
+				local Item = Instance.new("TextButton")
+
+				Item.Name = "Item"
+				Item.Parent = DropScroll
+				Item.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Item.BackgroundTransparency = 1.000
+				Item.Size = UDim2.new(0, 460, 0, 26)
+				Item.Font = Enum.Font.GothamSemibold
+				Item.Text = tostring(v)
+				Item.TextColor3 = Color3.fromRGB(225, 225, 225)
+				Item.TextSize = 13.000
+				Item.TextTransparency = 0.500
+
+				Item.MouseEnter:Connect(function()
+					TweenService:Create(
+						Item,
+						TweenInfo.new(0.5,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{TextTransparency = 0}
+					):Play()
+				end)
+
+				Item.MouseLeave:Connect(function()
+					TweenService:Create(
+						Item,
+						TweenInfo.new(0.5,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{TextTransparency = 0.5}
+					):Play()
+				end)
+
+				Item.MouseButton1Click:Connect(function()
+					isdropping = false
+					Dropdown:TweenSize(UDim2.new(0,470,0,37),"Out","Quad",0.5,true)
+					TweenService:Create(
+						DropImage,
+						TweenInfo.new(0.5,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{Rotation = 360}
+					):Play()
+					callback(Item.Text)
+					DropTitle.Text = text.." : "..Item.Text
+				end)
+			end
+
+			DropScroll.CanvasSize = UDim2.new(0,0,0,UIListLayout.AbsoluteContentSize.Y + 10)
+
+			DropButton.MouseButton1Click:Connect(function()
+				if isdropping == false then
+					isdropping = true
+					Dropdown:TweenSize(UDim2.new(0,470,0,131),"Out","Quad",0.5,true)
+					TweenService:Create(
+						DropImage,
+						TweenInfo.new(0.5,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{Rotation = 540}
+					):Play()
+				else
+					isdropping = false
+					Dropdown:TweenSize(UDim2.new(0,470,0,37),"Out","Quad",0.5,true)
+					TweenService:Create(
+						DropImage,
+						TweenInfo.new(0.5,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{Rotation = 360}
+					):Play()
+				end
+			end)
+
+			local dropfunc = {}
+			function dropfunc:Add(t)
+				local Item = Instance.new("TextButton")
+				Item.Name = "Item"
+				Item.Parent = DropScroll
+				Item.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Item.BackgroundTransparency = 1.000
+				Item.Size = UDim2.new(0, 470, 0, 26)
+				Item.Font = Enum.Font.GothamSemibold
+				Item.Text = tostring(t)
+				Item.TextColor3 = Color3.fromRGB(13, 225, 225)
+				Item.TextSize = 13.000
+				Item.TextTransparency = 0.500
+
+				Item.MouseEnter:Connect(function()
+					TweenService:Create(
+						Item,
+						TweenInfo.new(0.5,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{TextTransparency = 0}
+					):Play()
+				end)
+
+				Item.MouseLeave:Connect(function()
+					TweenService:Create(
+						Item,
+						TweenInfo.new(0.5,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{TextTransparency = 0.5}
+					):Play()
+				end)
+
+				Item.MouseButton1Click:Connect(function()
+					isdropping = false
+					Dropdown:TweenSize(UDim2.new(0,470,0,37),"Out","Quad",0.5,true)
+					TweenService:Create(
+						DropImage,
+						TweenInfo.new(0.5,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+						{Rotation = 360}
+					):Play()
+					callback(Item.Text)
+					DropTitle.Text = text.." : "..Item.Text
+				end)
+			end
+			function dropfunc:Clear()
+				DropTitle.Text = tostring(text).." : "
+				isdropping = false
+				Dropdown:TweenSize(UDim2.new(0,470,0,37),"Out","Quad",0.5,true)
+				TweenService:Create(
+					DropImage,
+					TweenInfo.new(0.5,Enum.EasingStyle.Quad,Enum.EasingDirection.Out),
+					{Rotation = 360}
+				):Play()
+				for i,v in next, DropScroll:GetChildren() do
+					if v:IsA("TextButton") then
+						v:Destroy()
+					end
+				end
+			end
+			return dropfunc
+		end
+
+		function main:Slider(text,min,max,set,callback)
+			local Slider = Instance.new("Frame")
+			local slidercorner = Instance.new("UICorner")
+			local sliderr = Instance.new("Frame")
+			local sliderrcorner = Instance.new("UICorner")
+			local SliderLabel = Instance.new("TextLabel")
+			local HAHA = Instance.new("Frame")
+			local AHEHE = Instance.new("TextButton")
+			local bar = Instance.new("Frame")
+			local bar1 = Instance.new("Frame")
+			local bar1corner = Instance.new("UICorner")
+			local barcorner = Instance.new("UICorner")
+			local circlebar = Instance.new("Frame")
+			local UICorner = Instance.new("UICorner")
+			local slidervalue = Instance.new("Frame")
+			local valuecorner = Instance.new("UICorner")
+			local TextBox = Instance.new("TextBox")
+			local UICorner_2 = Instance.new("UICorner")
+
+			Slider.Name = "Slider"
+			Slider.Parent = MainFramePage
+			Slider.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+			Slider.BackgroundTransparency = 0
+			Slider.Size = UDim2.new(0, 470, 0, 72)
+
+			slidercorner.CornerRadius = UDim.new(0, 5)
+			slidercorner.Name = "slidercorner"
+			slidercorner.Parent = Slider
+
+			sliderr.Name = "sliderr"
+			sliderr.Parent = Slider
+			sliderr.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+			sliderr.Position = UDim2.new(0, 1, 0, 1)
+			sliderr.Size = UDim2.new(0, 468, 0, 70)
+
+			sliderrcorner.CornerRadius = UDim.new(0, 5)
+			sliderrcorner.Name = "sliderrcorner"
+			sliderrcorner.Parent = sliderr
+
+			SliderLabel.Name = "SliderLabel"
+			SliderLabel.Parent = sliderr
+			SliderLabel.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+			SliderLabel.BackgroundTransparency = 1.000
+			SliderLabel.Position = UDim2.new(0, 15, 0, 3)
+			SliderLabel.Size = UDim2.new(0, 360, 0, 26)
+			SliderLabel.Font = Enum.Font.GothamSemibold
+			SliderLabel.Text = text
+			SliderLabel.TextColor3 = Color3.fromRGB(225, 225, 225)
+			SliderLabel.TextSize = 16.000
+			SliderLabel.TextTransparency = 0
+			SliderLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+			HAHA.Name = "HAHA"
+			HAHA.Parent = sliderr
+			HAHA.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			HAHA.BackgroundTransparency = 1.000
+			HAHA.Size = UDim2.new(0, 468, 0, 29)
+
+			AHEHE.Name = "AHEHE"
+			AHEHE.Parent = sliderr
+			AHEHE.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+			AHEHE.BackgroundTransparency = 1.000
+			AHEHE.Position = UDim2.new(0, 10, 0, 50)
+			AHEHE.Size = UDim2.new(0, 448, 0, 5)
+			AHEHE.Font = Enum.Font.SourceSans
+			AHEHE.Text = ""
+			AHEHE.TextColor3 = Color3.fromRGB(13, 255, 255)
+			AHEHE.TextSize = 14.00
+
+			bar.Name = "bar"
+			bar.Parent = AHEHE
+			bar.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+			bar.Size = UDim2.new(0, 448, 0, 5)
+
+			bar1.Name = "bar1"
+			bar1.Parent = bar
+			bar1.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+			bar1.BackgroundTransparency = 0
+			bar1.Size = UDim2.new(set/max, 0, 0, 5)
+
+			bar1corner.CornerRadius = UDim.new(0, 5)
+			bar1corner.Name = "bar1corner"
+			bar1corner.Parent = bar1
+
+			barcorner.CornerRadius = UDim.new(0, 5)
+			barcorner.Name = "barcorner"
+			barcorner.Parent = bar
+
+			circlebar.Name = "circlebar"
+			circlebar.Parent = bar1
+			circlebar.BackgroundColor3 = Color3.fromRGB(225, 225, 225)
+			circlebar.Position = UDim2.new(1, -2, 0, -3)
+			circlebar.Size = UDim2.new(0, 10, 0, 10)
+
+			UICorner.CornerRadius = UDim.new(0, 100)
+			UICorner.Parent = circlebar
+
+			slidervalue.Name = "slidervalue"
+			slidervalue.Parent = sliderr
+			slidervalue.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+			slidervalue.BackgroundTransparency = 0
+			slidervalue.Position = UDim2.new(0, 395, 0, 7)
+			slidervalue.Size = UDim2.new(0, 65, 0, 22)
+
+			valuecorner.CornerRadius = UDim.new(0, 5)
+			valuecorner.Name = "valuecorner"
+			valuecorner.Parent = slidervalue
+
+			TextBox.Parent = slidervalue
+			TextBox.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+			TextBox.Position = UDim2.new(0, 1, 0, 1)
+			TextBox.Size = UDim2.new(0, 63, 0, 20)
+			TextBox.Font = Enum.Font.GothamSemibold
+			TextBox.TextColor3 = Color3.fromRGB(13, 255, 255)
+			TextBox.TextSize = 9.000
+			TextBox.Text = set
+			TextBox.TextTransparency = 0
+
+			UICorner_2.CornerRadius = UDim.new(0, 5)
+			UICorner_2.Parent = TextBox
+
+			local mouse = game.Players.LocalPlayer:GetMouse()
+			local uis = game:GetService("UserInputService")
+
+			if Value == nil then
+				Value = set
+				pcall(function()
+					callback(Value)
+				end)
+			end
+			
+			AHEHE.MouseButton1Down:Connect(function()
+				Value = math.floor((((tonumber(max) - tonumber(min)) / 448) * bar1.AbsoluteSize.X) + tonumber(min)) or 0
+				pcall(function()
+					callback(Value)
+				end)
+				bar1.Size = UDim2.new(0, math.clamp(mouse.X - bar1.AbsolutePosition.X, 0, 448), 0, 5)
+				circlebar.Position = UDim2.new(0, math.clamp(mouse.X - bar1.AbsolutePosition.X - 2, 0, 438), 0, -3)
+				moveconnection = mouse.Move:Connect(function()
+					TextBox.Text = Value
+					Value = math.floor((((tonumber(max) - tonumber(min)) / 448) * bar1.AbsoluteSize.X) + tonumber(min))
+					pcall(function()
+						callback(Value)
+					end)
+					bar1.Size = UDim2.new(0, math.clamp(mouse.X - bar1.AbsolutePosition.X, 0, 448), 0, 5)
+					circlebar.Position = UDim2.new(0, math.clamp(mouse.X - bar1.AbsolutePosition.X - 2, 0, 438), 0, -3)
+				end)
+				releaseconnection = uis.InputEnded:Connect(function(Mouse)
+					if Mouse.UserInputType == Enum.UserInputType.MouseButton1 then
+						Value = math.floor((((tonumber(max) - tonumber(min)) / 448) * bar1.AbsoluteSize.X) + tonumber(min))
+						pcall(function()
+							callback(Value)
+						end)
+						bar1.Size = UDim2.new(0, math.clamp(mouse.X - bar1.AbsolutePosition.X, 0, 448), 0, 5)
+						circlebar.Position = UDim2.new(0, math.clamp(mouse.X - bar1.AbsolutePosition.X - 2, 0, 438), 0, -3)
+						moveconnection:Disconnect()
+						releaseconnection:Disconnect()
+					end
+				end)
+			end)
+			releaseconnection = uis.InputEnded:Connect(function(Mouse)
+				if Mouse.UserInputType == Enum.UserInputType.MouseButton1 then
+					Value = math.floor((((tonumber(max) - tonumber(min)) / 448) * bar1.AbsoluteSize.X) + tonumber(min))
+					TextBox.Text = Value
+				end
+			end)
+
+			TextBox.FocusLost:Connect(function()
+				if tonumber(TextBox.Text) > max then
+					TextBox.Text  = max
+				end
+				bar1.Size = UDim2.new((TextBox.Text or 0) / max, 0, 0, 5)
+				circlebar.Position = UDim2.new(1, -2, 0, -3)
+				TextBox.Text = tostring(TextBox.Text and math.floor( (TextBox.Text / max) * (max - min) + min) )
+				pcall(callback, TextBox.Text)
+			end)
+		end
+
+		function main:Textbox(text,disappear,callback)
+			local Textbox = Instance.new("Frame")
+			local TextboxCorner = Instance.new("UICorner")
+			local Textboxx = Instance.new("Frame")
+			local TextboxxCorner = Instance.new("UICorner")
+			local TextboxLabel = Instance.new("TextLabel")
+			local txtbtn = Instance.new("TextButton")
+			local RealTextbox = Instance.new("TextBox")
+			local UICorner = Instance.new("UICorner")
+
+			Textbox.Name = "Textbox"
+			Textbox.Parent = MainFramePage
+			Textbox.BackgroundColor3 = Color3.fromRGB(173, 121, 226)
+			Textbox.BackgroundTransparency = 0
+			Textbox.Size = UDim2.new(0, 470, 0, 39)
+
+			TextboxCorner.CornerRadius = UDim.new(0, 5)
+			TextboxCorner.Name = "TextboxCorner"
+			TextboxCorner.Parent = Textbox
+
+			Textboxx.Name = "Textboxx"
+			Textboxx.Parent = Textbox
+			Textboxx.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+			Textboxx.Position = UDim2.new(0, 1, 0, 1)
+			Textboxx.Size = UDim2.new(0, 468, 0, 37)
+
+			TextboxxCorner.CornerRadius = UDim.new(0, 5)
+			TextboxxCorner.Name = "TextboxxCorner"
+			TextboxxCorner.Parent = Textboxx
+
+			TextboxLabel.Name = "TextboxLabel"
+			TextboxLabel.Parent = Textbox
+			TextboxLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			TextboxLabel.BackgroundTransparency = 1.000
+			TextboxLabel.Position = UDim2.new(0, 15, 0, 3)
+			TextboxLabel.Text = text
+			TextboxLabel.Size = UDim2.new(0, 145, 0, 31)
+			TextboxLabel.Font = Enum.Font.GothamSemibold
+			TextboxLabel.TextColor3 = Color3.fromRGB(13, 225, 225)
+			TextboxLabel.TextSize = 16.000
+			TextboxLabel.TextTransparency = 0
+			TextboxLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+			txtbtn.Name = "txtbtn"
+			txtbtn.Parent = Textbox
+			txtbtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			txtbtn.BackgroundTransparency = 1.000
+			txtbtn.Position = UDim2.new(0, 1, 0, 1)
+			txtbtn.Size = UDim2.new(0, 468, 0, 29)
+			txtbtn.Font = Enum.Font.SourceSans
+			txtbtn.Text = ""
+			txtbtn.TextColor3 = Color3.fromRGB(0, 0, 0)
+			txtbtn.TextSize = 14.000
+
+			RealTextbox.Name = "RealTextbox"
+			RealTextbox.Parent = Textbox
+			RealTextbox.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+			RealTextbox.BackgroundTransparency = 0
+			RealTextbox.Position = UDim2.new(0, 360, 0, 7)
+			RealTextbox.Size = UDim2.new(0, 100, 0, 24)
+			RealTextbox.Font = Enum.Font.GothamSemibold
+			RealTextbox.Text = ""
+			RealTextbox.TextColor3 = Color3.fromRGB(13, 225, 225)
+			RealTextbox.TextSize = 11.000
+			RealTextbox.TextTransparency = 0
+
+			RealTextbox.FocusLost:Connect(function()
+				callback(RealTextbox.Text)
+				if disappear then
+					RealTextbox.Text = ""
+				end
+			end)
+
+			UICorner.CornerRadius = UDim.new(0, 5)
+			UICorner.Parent = RealTextbox
+		end
+		function main:Label(text)
+			local Label = Instance.new("TextLabel")
+			local PaddingLabel = Instance.new("UIPadding")
+			local labell = {}
+	
+			Label.Name = "Label"
+			Label.Parent = MainFramePage
+			Label.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Label.BackgroundTransparency = 1.000
+			Label.Size = UDim2.new(0, 470, 0, 20)
+			Label.Font = Enum.Font.GothamSemibold
+			Label.TextColor3 = Color3.fromRGB(225, 225, 225)
+			Label.TextSize = 16.000
+			Label.Text = text
+			Label.TextXAlignment = Enum.TextXAlignment.Left
+
+			PaddingLabel.PaddingLeft = UDim.new(0,15)
+			PaddingLabel.Parent = Label
+			PaddingLabel.Name = "PaddingLabel"
+	
+			function labell:Set(newtext)
+				Label.Text = newtext
+			end
+
+			return labell
+		end
+		function main:Seperator(text)
+			local Seperator = Instance.new("Frame")
+			local Sep1 = Instance.new("Frame")
+			local Sep2 = Instance.new("TextLabel")
+			local Sep3 = Instance.new("Frame")
+			
+			Seperator.Name = "Seperator"
+			Seperator.Parent = MainFramePage
+			Seperator.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+			Seperator.BackgroundTransparency = 1.000
+			Seperator.Size = UDim2.new(0, 470, 0, 20)
+			
+			Sep1.Name = "Sep1"
+			Sep1.Parent = Seperator
+			Sep1.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+			Sep1.BorderSizePixel = 0
+			Sep1.Position = UDim2.new(0, 0, 0, 10)
+			Sep1.Size = UDim2.new(0, 80, 0, 1)
+			
+			Sep2.Name = "Sep2"
+			Sep2.Parent = Seperator
+			Sep2.BackgroundColor3 = Color3.fromRGB(25, 255, 255)
+			Sep2.BackgroundTransparency = 1.000
+			Sep2.Position = UDim2.new(0, 185, 0, 0)
+			Sep2.Size = UDim2.new(0, 100, 0, 20)
+			Sep2.Font = Enum.Font.GothamSemibold
+			Sep2.Text = text
+			Sep2.TextColor3 = Color3.fromRGB(13, 255, 255)
+			Sep2.TextSize = 14.000
+			
+			Sep3.Name = "Sep3"
+			Sep3.Parent = Seperator
+			Sep3.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+			Sep3.BorderSizePixel = 0
+			Sep3.Position = UDim2.new(0, 390, 0, 10)
+			Sep3.Size = UDim2.new(0, 80, 0, 1)
+		end
+
+		function main:Line()
+			local Linee = Instance.new("Frame")
+			local Line = Instance.new("Frame")
+			
+			Linee.Name = "Linee"
+			Linee.Parent = MainFramePage
+			Linee.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+			Linee.BackgroundTransparency = 1.000
+			Linee.Position = UDim2.new(0, 0, 0.119999997, 0)
+			Linee.Size = UDim2.new(0, 470, 0, 20)
+			
+			Line.Name = "Line"
+			Line.Parent = Linee
+			Line.BackgroundColor3 = Color3.fromRGB(13, 255, 255)
+			Line.BorderSizePixel = 0
+			Line.Position = UDim2.new(0, 0, 0, 10)
+			Line.Size = UDim2.new(0, 470, 0, 1)
+		end
+		return main
+	end
+	return uitab
+end
+local win = library:Window("Happy","10500505584",Enum.KeyCode.RightControl)
+
+local vu = game:GetService("VirtualUser")
+game:GetService("Players").LocalPlayer.Idled:connect(function()
+   vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+   wait(1)
+   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+end)
+
+local AutoFarmTab = win:Tab("GAME")
+
+AutoFarmTab:Seperator("Auto Farm")
+
+AutoFarmTab:Toggle("Auto Farm",false,"6022668898",function(value)
+    _G.AutoFarm = value
+while _G.AutoFarm do wait()
+    pcall(function()
+for i,v in pairs(game:GetService("Workspace").Collectables:GetDescendants()) do
+    if v.ClassName == "Model" then
+     v.Ring.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+            end
+        end
+    end)
+end
+
+end)
+
+
+AutoFarmTab:Seperator("Teleport World")
+
+AutoFarmTab:Toggle("NewWorld 1",false,"6022668898",function(value)
+ _G.Newworld1 = value
+    
+while wait() do 
+       pcall(function()
+                    if _G.Newworld1 then
+                     local args = {
+    [1] = 1
+}
+
+game:GetService("ReplicatedStorage").Remotes.PlayerPlaceTeleport:FireServer(unpack(args))   
+                end
+        end)
+    end
+end)
+
+
+AutoFarmTab:Toggle("NewWorld 2",false,"6022668898",function(value)
+    _G.Newworld2 = value
+    
+while wait() do 
+       pcall(function()
+                    if _G.Newworld2 then
+    local args = {
+    [1] = 2
+}
+
+game:GetService("ReplicatedStorage").Remotes.PlayerPlaceTeleport:FireServer(unpack(args))
+                   end
+        end)
+    end
+end)
+
+AutoFarmTab:Seperator("Misc")
+
+AutoFarmTab:Slider("WalkSpeed",0,500,16,function(t)
+    game:GetService("Players").LocalPlayer.Character.Humanoid.WalkSpeed = t
+end)
+
+AutoFarmTab:Slider("JumpPower",0,500,16,function()
+    game:GetService("Players").LocalPlayer.Character.Humanoid.JumpPower = t
+end)
+
+local AutoFarmTab = win:Tab("Credit")
+
+AutoFarmTab:Button("join discord",function(t)
+      setclipboard("https://discord.gg/juuUubcR9P")
+end)
